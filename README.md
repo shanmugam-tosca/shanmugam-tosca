@@ -2,7 +2,7 @@
 
 ### Quality Engineer | Tosca Automation | Manual Testing | SAP Fiori
 
-Quality Engineering professional with **6+ years of experience** in Software Testing, including Manual Testing and **Tricentis Tosca automation**.
+Quality Engineering professional with **7+ years of experience** in Software Testing, including Manual Testing and **Tricentis Tosca automation**.
 
 I specialize in designing and executing functional, regression, integration and end-to-end test scenarios, with experience in **SAP Fiori web applications** and Agile testing environments.
 
